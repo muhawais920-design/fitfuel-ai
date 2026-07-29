@@ -1,0 +1,6 @@
+{
+  "name": "FitFuel AI",
+  "description": "AI-Powered Fitness, Workout & Nutrition Mobile App with Flutter Clean Architecture",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
